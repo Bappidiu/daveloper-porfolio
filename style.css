@@ -1,0 +1,60 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.lightgreen-color{
+    color :rgb(53, 187, 53);
+}
+h4{
+    font-size: 20px;
+}
+p{
+    width: 50%;
+    font-size: 20px;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 70%;
+    padding-left: 5%;
+}
+.full-width{
+    width: 30%;
+    padding-right: 10%;
+    padding-top: 5%;
+}
+.full-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(56, 224, 56),darkgreen);
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top\ banner.jpg);
+}
+.dream-Big{
+    background-image: url(images/dream\ big.jpg);
+    background-repeat: no-repeat;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+.experience-area{
+    background-image: url(images/sky\ top.jpg);
+    background-repeat: no-repeat;
+}
+    
